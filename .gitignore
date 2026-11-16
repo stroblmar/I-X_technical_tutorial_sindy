@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+*pycache*
+.idea
+*.key
+*.code-workspace
+.vscode
+*.mp4
+*.gif
+
+development/
+notes.ipynb
