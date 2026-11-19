@@ -1,0 +1,4 @@
+# An Introduction to Symbolic Regression using Sparse Identification of Nonlinear Dynamics (SINDy)
+This tutorial is designed to provide a gentle introduction to the SINDy algorithm, and to demonstrate how it can be used to discover governing equations from data - focusing in particular on discovery of population dynamics models. It was delivered by [Maximilian Strobl](https://stroblmar.github.io/) at the Imperial College Digital Foundry as part of his Schmidt AI in Science Fellowship training.
+
+For questions or comments, please contact Maximilian Strobl at [mstrobl@imperial.ac.uk](mailto:mstrobl@imperial.ac.uk).
